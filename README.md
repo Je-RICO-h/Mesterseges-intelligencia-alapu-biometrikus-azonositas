@@ -16,6 +16,7 @@ Az általunk javasolt technológia egy új, proaktív biztonsági réteg bevezet
 **Megoldásunk nyílt forráskódú. A tudományos reprodukálhatóság és az elismerés biztosítása érdekében a felhasználás és továbbfejlesztés megfelelő hivatkozáshoz (referenciához) kötött.**
 
 [1] 	BiDAlab, „TypeNet GitHub Repository,” [Online]. Available: https://github.com/BiDAlab/TypeNet. [Hozzáférés dátuma: 20 Október 2025].
+
 [2] 	A. Alejandro, M. Aythami, M. J. V., V.-R. Ruben és F. Julian, „TypeNet: Deep Learning Keystroke Biometrics,” IEEE Transactions on Biometrics, Behavior, and Identity Science, 2021. 
 
 # A program működése
