@@ -56,7 +56,7 @@ A programot a két "Train_data_collect_(Model).py fájlokbol kezeljük, annak f�
 ### Továbbiak
 - A környezet futtatásához szükséges könyvtárak és conda környezet megtalálható az environment.yml és Requirements.txt fájlokban.
 
-#Felhasználás és Hivatkozás
+# Felhasználás és Hivatkozás
 Örömmel vesszük, ha kódunkat és módszertanunkat felhasználod tudományos kutatásokban, kereskedelmi projektekben vagy más nyílt forráskódú kezdeményezésekben!
 
 Kérjük, figyelembe venni, hogy munkánk integritása érdekében minden, a projektből származó kód, adatok vagy eredmény felhasználása esetén a következő formátum szerint adj megfelelő hivatkozást (referenciát) az eredeti forrásra.
