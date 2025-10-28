@@ -45,7 +45,7 @@ A nyers adatok augmentálásához, feldolgozásához szükséges eljárásokat t
 Az inferenciára kész, betanult modelleket és a hozzájuk szükséges egyéb fájlokat tartalmazza (OHE features, Label encoder stb.), modellenként csoportosítva.
 
 
-###Fő fájlok
+### Fő fájlok
 A programot a két "Train_data_collect_(Model).py fájlokbol kezeljük, annak függvényében melyik modell-t szeretnénk használni inferenciára.
 - A model_path változó tartalmazza az elérési utakat a modellekhez, ezt alap esetben nem kell módosítani.
 - A threshold-al a gyűjtött mintaszámot tudjuk változtatni
@@ -53,7 +53,7 @@ A programot a két "Train_data_collect_(Model).py fájlokbol kezeljük, annak f�
 - inference_mode - True értékkel **inferencia** módban fog futni a program a megfelelő modell-t betöltve, False esetén **adatgyűjtési** módba
 - A program futtatásakor nincs más dolgunk, mint megadjuk a kívánt label nevét amikor a program bekéri, majd az enterrel indítható a program és már csak gépelni szükséges. A program végzi a többi feladatot a háttérben.
 
-###Továbbiak
+### Továbbiak
 - A környezet futtatásához szükséges könyvtárak és conda környezet megtalálható az environment.yml és Requirements.txt fájlokban.
 
 #Felhasználás és Hivatkozás
